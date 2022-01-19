@@ -1,0 +1,11 @@
+Coloque aqui as principais informações observadas durante o decorrer do curso:
+
+Link para download do Git:
+https://git-scm.com/downloads
+
+Alguns termos:
+Git: Software de versionamento de código distribuído.
+GitHub: Empresa da Microsoft onde você "guarda" seu código.
+Git Bash: Terminal extendido para otimizar o uso do Git.
+CLI: Comand line interface (interface de linha e comando).
+GUI: Graphic user interface (interface gráfica pra usuário).
